@@ -1,9 +1,9 @@
 # policy_privacy_benchmarks
 This is a pytorch implementation for state-of-the-art results on policy privacy datasets (OPP-115).
-The older implementation can be found at [link](https://github.com/SmartDataAnalytics/Polisis_Benchmark)
-Thanks for her generously sharing the code.
+The older implementation can be found at this [link](https://github.com/SmartDataAnalytics/Polisis_Benchmark)
+. Thanks for her generously sharing the code.
 
-So far, I just implemented a RNN model for the prediction. The update would be coming soon.
+By the way, I just implemented a RNN model for the prediction so far. The update would be coming soon.
 
 ## Results
 
